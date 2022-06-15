@@ -4,7 +4,7 @@ https://en.wikibooks.org/wiki/Java_Programming/Primitive_Types
 | Category       | Types   | Size (bits) | Minimum Value | Maximum Value  | Precision                                                     | Example                    |
 |----------------|---------|-------------|---------------|----------------|---------------------------------------------------------------|----------------------------|
 | Integer        | byte    | 8           | -128          | 127            | From +127 to -128                                             | byte b = 65;               |
-|                | char    | 16          | 0             | 216-1          | All Unicode characters[1]                                     | char c = 'A'; char c = 65; |
+|                | char    | 16          | 0             | 216-1          | All Unicode characters                                        | char c = 'A'; char c = 65; |
 |                | short   | 16          | -215          | 215-1          | From +32,767 to -32,768                                       | short s = 65;              |
 |                | int     | 32          | -231          | 231-1          | From +2,147,483,647 to -2,147,483,648                         | int i = 65;                |
 |                | long    | 64          | -263          | 263-1          | From +9,223,372,036,854,775,807 to -9,223,372,036,854,775,808 | long l = 65L;              |
